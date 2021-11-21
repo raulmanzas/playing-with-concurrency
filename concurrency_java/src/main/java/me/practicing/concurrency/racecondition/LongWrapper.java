@@ -1,4 +1,4 @@
-package me.practicing.concurrency.wrapper;
+package me.practicing.concurrency.racecondition;
 
 public class LongWrapper {
     private long l;

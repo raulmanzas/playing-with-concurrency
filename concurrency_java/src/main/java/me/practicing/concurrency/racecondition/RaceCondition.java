@@ -1,4 +1,4 @@
-package me.practicing.concurrency.wrapper;
+package me.practicing.concurrency.racecondition;
 
 public class RaceCondition {
     public static void main(String[] args) throws InterruptedException {
