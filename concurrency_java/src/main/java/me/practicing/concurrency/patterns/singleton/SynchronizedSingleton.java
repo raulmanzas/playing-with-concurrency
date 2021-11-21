@@ -1,4 +1,4 @@
-package me.practicing.concurrency;
+package me.practicing.concurrency.patterns.singleton;
 
 public class SynchronizedSingleton {
     private static SynchronizedSingleton instance;
